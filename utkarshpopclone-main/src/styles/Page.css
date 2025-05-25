@@ -1,0 +1,106 @@
+body {
+ font-family: 'Inter', sans-serif;
+  background: #fafafa;
+}
+
+.container {
+  max-width: 360px;
+  margin: auto;
+  background:#f7f8f9;
+  min-height: 100vh;
+  border: 1px solid #e1e1e1;
+ 
+}
+.page {
+  padding: 18px;
+}
+.page h2 {
+  font-size: 27px;
+  font-weight: bolder;
+  color: #1d2226;
+  margin-bottom: 25px;
+}
+
+
+.page p {
+  color: #666;
+  text-align: left;
+  margin-bottom: 24px;
+}
+
+.section-header {
+  background: white;
+  padding: 23px 19px 29px 20px;
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #1d2226;
+  margin: 0;
+}
+
+.profile-section {
+  background: #f7f8f9;
+  padding: 18px;
+}
+
+.profile-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.profile-avatar {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+
+.avatar-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.camera-icon {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: #7c3aed;
+  padding: 4px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-info {
+  margin-left: 12px;
+}
+
+.profile-name {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.profile-email {
+  margin: 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.profile-description {
+  font-size: 15px;
+  color: #444;
+  margin-top: 30px;
+  margin-bottom: 18px;
+}
+
+.divider {
+  border: none;
+  border-top: 1px dashed #e1e1e1;
+  margin: 25px 0;
+}

@@ -1,0 +1,109 @@
+/* === INPUT FIELD STYLES === */
+.floating-form-group {
+  position: relative;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 4px 16px 12px 6px;
+
+}
+
+
+.floating-label {
+  position: absolute;
+  top: -7px;
+  left: 12px;
+  background: #f7f8f9;
+  padding: 0 4px;
+  font-size: 10px;
+  font-weight: 500;
+  color: #6c25ff;
+  z-index: 1;
+}
+
+.required-asterisk {
+  color: red;
+  margin-left: 2px;
+}
+
+.floating-input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  padding: 14px 10px 10px;
+  background: #f7f8f9;
+  color: #1c1c1c;
+}
+
+
+
+.floating-input::placeholder {
+  color: #aaa;
+}
+
+
+.form-group label .required-asterisk {
+  color: red;
+  margin-left: 2px;
+}
+
+
+
+.radio-label {
+  margin-right: 16px;
+}
+
+.form-group span {
+  content: '*';
+  color: red;
+  margin-left: 2px;
+}
+
+
+.floating-label {
+  position: absolute;
+  top: -7px;
+  left: 10px;
+  padding: 0 4px;
+  font-size: 14px;
+  color: #6c25ff;
+  font-weight: 500;
+}
+
+.required-asterisk {
+  color: red;
+  margin-left: 2px;
+}
+
+
+
+.radio-group {
+  margin-bottom: 20px;
+}
+
+.radio-label {
+  display: block;
+  font-size: 17px;
+  font-weight: 500;
+  color: #403f42;
+  margin-bottom: 8px;
+}
+
+.required-asterisk {
+  color: red;
+  margin-left: 2px;
+}
+
+.radio-options {
+  display: flex;
+  gap: 16px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #1c1c1c;
+}
+
