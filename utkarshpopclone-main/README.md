@@ -1,3 +1,17 @@
+## 🖼️ Project Screenshots
+
+Here are some screenshots of the Utkarsh Pop Clone project:
+ Livehostlink: https://spectacular-lollipop-adb4ac.netlify.app/
+![Screenshot 133](https://raw.githubusercontent.com/Utkarsh204/utkarshpopx-clone/24b828a8e13bcac1abbcf4d19fb96f9504d227cf/utkarshpopclone-main/Screenshot%20(133).png)
+
+![Screenshot 130](https://raw.githubusercontent.com/Utkarsh204/utkarshpopx-clone/24b828a8e13bcac1abbcf4d19fb96f9504d227cf/utkarshpopclone-main/Screenshot%20(130).png)
+
+![Screenshot 132](https://raw.githubusercontent.com/Utkarsh204/utkarshpopx-clone/24b828a8e13bcac1abbcf4d19fb96f9504d227cf/utkarshpopclone-main/Screenshot%20(132).png)
+
+![Screenshot 131](https://raw.githubusercontent.com/Utkarsh204/utkarshpopx-clone/24b828a8e13bcac1abbcf4d19fb96f9504d227cf/utkarshpopclone-main/Screenshot%20(131).png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
